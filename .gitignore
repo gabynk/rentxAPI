@@ -1,5 +1,5 @@
 node_modules
 .vscode
-.yarn-error.log
+yarn-error.log
 
-.RentxRules.md
+RentxRules.md
