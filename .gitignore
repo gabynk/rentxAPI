@@ -2,4 +2,11 @@ node_modules
 .vscode
 yarn-error.log
 
-RentxRules.md
+tmp/*
+!tmp/.gitkeep
+dist/
+coverage
+.env
+ormconfig.json
+
+rentxrules.md
